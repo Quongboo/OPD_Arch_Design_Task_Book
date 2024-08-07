@@ -1,0 +1,22 @@
+opd_treatment_room,英文名称,英文名称小写,房间名称,房间描述,房间数量,房间面积,面宽,进深,高度,房间类型,房间楼层,医生数量,交通权重,布局权重,窗子权重,最小面积,最大面积,最小数量,最大数量
+,waiting_area,waiting_area,等候 ,描述,,45.36,8.4,5.4,4.5,公共,0,0,21,21,3,20,250,1,1
+,reception,reception,接待/登记 ,描述,,16.2,3,5.4,4.5,公共,0,1,20,20,2,4,20,1,1
+,nurse_station,nurse_station,护士站 ,描述,,29.16,5.4,5.4,4.5,公共,0,2,19,19,2,4,50,1,1
+,injection_room,injection_room,注射室 ,描述,,24.3,4.5,5.4,4.5,医技,0,1,18,18,2,15,99.9,1,5
+,transfusion_room,transfusion_room,输液室 ,描述,,19.44,3.6,5.4,4.5,诊疗,0,1,17,17,3,16,99.9,1,5
+,vip_transfusion_room,vip_transfusion_room,VIP日间输液室 ,描述,,19.44,3.6,5.4,4.5,诊疗,0,1,16,16,3,16,99.9,1,5
+,dialysis_ward_room,dialysis_ward_room,透析病房 ,描述,,24.3,4.5,5.4,4.5,诊疗,0,1,15,15,3,15,99.9,1,5
+,infect_dialysis_ward_room,infect_dialysis_ward_room,透析病房（感染） ,描述,,24.3,4.5,5.4,4.5,诊疗,0,1,14,14,3,15,99.9,1,5
+,single_bed_isolation_unit,single_bed_isolation_unit,单床隔离病房 ,描述,,24.3,4.5,5.4,4.5,诊疗,0,1,13,13,3,15,99.9,1,5
+,vip_dialysis_ward_room,vip_dialysis_ward_room,VIP透析病房 ,描述,,24.3,4.5,5.4,4.5,诊疗,0,1,12,12,3,15,99.9,1,5
+,vip_infect_dialysis_ward_room,vip_infect_dialysis_ward_room,VIP透析病房（感染） ,描述,,24.3,4.5,5.4,4.5,诊疗,0,1,11,11,3,15,99.9,1,5
+,oxygen_therapy_room,oxygen_therapy_room,氧疗室 ,描述,,24.3,4.5,5.4,4.5,诊疗,0,1,10,10,3,15,99.9,1,5
+,patient_restroom,patient_restroom,病人厕所 ,描述,,27.54,5.1,5.4,4.5,公共,0,0,9,9,1,15,99.9,1,1
+,emergency_room,emergency_room,抢救室 ,描述,,24.3,4.5,5.4,4.5,诊疗,0,2,8,8,2,20,99.9,1,5
+,therapeutic_room,therapeutic_room,治疗室 ,描述,,24.3,4.5,5.4,4.5,诊疗,0,1,7,7,3,15,99.9,1,5
+,clean_room,clean_room,清洁品室,描述,,17.82,3.3,5.4,4.5,后勤,0,0,6,6,1,10,99.9,1,1
+,soiled_utility_room,soiled_utility_room,污洗室,描述,,17.82,3.3,5.4,4.5,后勤,0,0,5,5,1,10,99.9,1,1
+,doctor_restroom,doctor_restroom,医务人员更衣/厕所,描述,,27.54,5.1,5.4,4.5,后勤,0,0,4,4,1,15,40,1,2
+,doctor_office,doctor_office,医护人员/办公室/用房,描述,,17.82,3.3,5.4,4.5,后勤,0,2,3,3,1,10,99.9,1,10
+,storage_room,storage_room,储藏室,描述,,17.82,3.3,5.4,4.5,保障,0,0,2,2,0,10,99.9,1,5
+,other_rooms,other_rooms,其它用房,描述,,17.82,3.3,5.4,4.5,保障,0,0,1,1,0,10,99.9,1,5

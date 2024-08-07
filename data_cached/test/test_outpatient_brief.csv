@@ -1,0 +1,12 @@
+名称,值
+门诊占地面积,2000.0
+门诊楼层数,5
+门诊建筑面积最小值(建议),6960.0
+门诊建筑面积最大值(建议),8700.0
+门诊患者人数建议值,1500
+设计建筑面积(输入值),None
+门诊计算得出患者人数,1417
+门诊必要建筑面积（最小建筑面积）,10333.62
+门诊增加的交通面积,0.0
+门诊科室及面积信息如下
+"{'gynecology': 1005.84, 'medical_mix_proxy': 0.0, 'surgery_mix_proxy': 0.0, 'cardiovascular_center': 991.9800000000002, 'respiratory_center': 829.6200000000001, 'digestive_center': 807.8400000000003, 'neurocerebrovascular_center': 1134.5399999999997, 'tumor_center': 590.04, 'physiotherapy': 1031.58, 'aesthetic': 491.04, 'counseling': 401.93999999999994, 'ophthalmology': 1055.3400000000004, 'ent': 873.1800000000002, 'operating': 619.7399999999999, 'opd_hall': 281.15999999999997, 'opd_pharmacy': 219.77999999999997}"

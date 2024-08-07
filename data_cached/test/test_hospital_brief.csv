@@ -1,0 +1,9 @@
+名称,值
+医院名称,test
+需要的床位数,500
+需要服务辖区人口,50000
+最大服务病人数量,3000
+医院占地面积建议值,56500
+医院建筑面积最大值,58000
+医院千人床位数,10.0
+门诊配置科室列表,"['gynecology', 'cardiovascular_center', 'physiotherapy', 'aesthetic', 'respiratory_center', 'counseling', 'digestive_center', 'ophthalmology', 'neurocerebrovascular_center', 'operating', 'ent', 'opd_hall', 'tumor_center', 'opd_pharmacy', 'medical_mix_proxy', 'surgery_mix_proxy']"
